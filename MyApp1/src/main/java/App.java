@@ -5,7 +5,7 @@ public class App {
 		// TODO Auto-generated method stub
 		
 		Calculator c =new Calculator();
-		System.out.println("Sum: "+c.add(4, 8));
+		System.out.println("Sample Sum:  "+c.add(4, 8));
 
 	}
 
